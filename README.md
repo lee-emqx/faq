@@ -30,3 +30,5 @@
 [telegram]: https://t.me/rust_zh
 [CC0]: https://creativecommons.org/publicdomain/zero/1.0/deed.zh
 [GPLv3]: https://www.gnu.org/licenses/gpl-3.0.zh-cn.html
+
+new test
